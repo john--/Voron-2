@@ -21,7 +21,7 @@ The list should be structured in the following way:
 
 ## 3D_Black
 
-[Fan Covers](../mods/3D_Black)  
+[Fan Covers](../mods/3D_Black-moved)  
 
 - Different fan covers for 40mm fans.  
 
